@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "spring boot",
+      "Group": "Servers",
+      "Host": "host.docker.internal",
+      "Port": 5434,
+      "MaintenanceDB": "springboot",
+      "Username": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
